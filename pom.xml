@@ -40,13 +40,13 @@
   
 <distributionManagement>
     <repository>
-        <id>rajesh</id>
-        <name>rajesh-releases</name>
+        <id>infy</id>
+        <name>infy</name>
         <url>http://35.183.179.67:8081/nexus/content/repositories/infy/</url>
     </repository>
     <snapshotRepository>
-        <id>rajesh</id>
-        <name>rajesh-snapshots</name>
+        <id>infy-release</id>
+        <name>infy-release</name>
         <url>http://35.183.179.67:8081/nexus/content/repositories/infy-release/</url>
     </snapshotRepository>
 </distributionManagement>
