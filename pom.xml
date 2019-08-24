@@ -42,12 +42,12 @@
     <repository>
         <id>infy</id>
         <name>infy</name>
-        <url>http://35.183.179.67:8081/nexus/content/repositories/infy/</url>
+        <url>http://52.15.102.106:8081/nexus/content/repositories/mph/</url>
     </repository>
     <snapshotRepository>
         <id>infy-release</id>
         <name>infy-release</name>
-        <url>http://35.183.179.67:8081/nexus/content/repositories/infy-release/</url>
+        <url>http://52.15.102.106:8081/nexus/content/repositories/mphsnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
